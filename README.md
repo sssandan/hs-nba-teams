@@ -3,3 +3,5 @@ This program shows the top 10 High Schools from each state that NBA players (194
 
 Test Run:
 [video](https://www.youtube.com/watch?v=I7G-rMFyRY4)
+
+<img width="1063" alt="nba_visual" src="https://user-images.githubusercontent.com/32689895/113785916-f615bc80-96ec-11eb-94c5-5578c92fa6e1.png">
