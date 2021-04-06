@@ -5,3 +5,4 @@ Test Run:
 [video](https://www.youtube.com/watch?v=I7G-rMFyRY4)
 
 <img width="1063" alt="nba_visual" src="https://user-images.githubusercontent.com/32689895/113785916-f615bc80-96ec-11eb-94c5-5578c92fa6e1.png">
+<img width="1054" alt="image" src="https://user-images.githubusercontent.com/32689895/113786036-32491d00-96ed-11eb-882f-7c813596cae0.png">
